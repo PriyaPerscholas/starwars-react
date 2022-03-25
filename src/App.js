@@ -19,7 +19,7 @@ function App() {
           <li id='li'>
             <div id='name'>
               <h3>{ship.name}</h3>
-              <br /> <br /> <br />
+              <br />
             </div>
           </li>
         ))
